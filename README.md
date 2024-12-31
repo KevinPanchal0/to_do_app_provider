@@ -1,4 +1,4 @@
-# DB Box
+# TO-Do App(DB Box)
 
 ## Project Description
 The "DB Box" project is designed to help students learn how to perform CRUD (Create, Read, Update, Delete) operations on a TODO list using the `sqflite` package in Flutter. The project also includes advanced features like bookmarking or favoriting TODOs, stored locally using the `shared_preferences` package.
